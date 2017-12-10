@@ -1,0 +1,19 @@
+/* lpm no me gusta hacer esto
+ */
+
+@font-face {
+	font-family: 'antenna';
+	src: url('../fonts/antenna.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+.fa {
+	display: inline-block;
+	font-family: antenna;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
