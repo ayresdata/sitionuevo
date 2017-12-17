@@ -1,10 +1,10 @@
 # Site settings
 title: Ayres.io
 email: admon@ayres.io
-url: https://ayresdata.github.io
+url: www.ayres.io
 description: "Soporte y Escalamiento de Data Stack."
 keywords: "data engineering databases relational nosql postgresql mysql mariadb clickhouse rethinkdb cockroachdb"
-skills: "Soporte y Escalamiento de Data Stack"
+skills: "Soporte y Escalamiento de Data Stack."
 meta_author: Ayres Data
 
 # Google webmaster tools
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -29,8 +29,8 @@ menu:
   contact: "Contacto"
 
 nosotros:
-  p1: "Parrafo 1"
-  p2: "Parrafo 2"
+  p1: "El crecimiento de una empresa trae aparejado un mayor volumen de datos. Los tiempos de respuesta, seguridad y la disponibilidad de los servicios de datos en el backend comienzan a ser más críticos."
+  p2: "Sabemos como ayudarlo en esto, años de experiencia y trabajo en clientes de envergadura nos han dado la experiencia para actuar en lo que su empresa necesita."
   button: "Nosotros"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -43,7 +43,7 @@ color:
 # Footer settings
 footer:
   copyright: Ayres Data
-  location: Buenos Aures
+  location: Buenos Aires
   social: ayresdata
   credits: Ayres Data
 
@@ -66,7 +66,7 @@ address:
   - line: Buenos Aires, Argentina
 
 # Credits content
-credits: 'Freelancer bootstrap theme.'
+credits: 'Data matters.'
 
 # Build settings
 markdown: kramdown
