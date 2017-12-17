@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: keyvalue.png
+alt: image-alt
+project-date: April 2017
+client: Ayres.io
+category: KeyValue
+title: Sistemas de Clave/Valor
+description: Los sistemas de llave/valor se han popularizado debido a su versatilidad y rendimiento, además de su integración en el desarrollo de aplicaciones. Nosotros soportamos casi todos los derivados de RocksDB (CockRoachDB incluído), pero además contamos con experiencia en sistemas que integran llave/valor y consenso distribuído como Consul y etcd. 
+
+---
