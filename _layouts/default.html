@@ -9,7 +9,7 @@
     {% include portfolio_grid.html %}
     {% include about.html %}
 
-    <!-- disabled temporarely 
+    {% comment %}
     {% if site.contact == "static" %}
     {% include contact_static.html %}
     {% elsif site.contact == "disqus" %}
@@ -17,8 +17,8 @@
     {% else %}
     {% include contact.html %}
     {% endif %}
-    -->
-    
+    {%endcomment%}
+
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}
